@@ -1,0 +1,57 @@
+
+.draggable {
+  border-radius: 20px;  
+  background: #2E64FE;
+  width: 100px;
+  height: 100px;
+  padding: 0.5em;
+  float: left;
+  margin: 10px 10px 10px 0;
+  text-align: center;
+   font-family: sans-serif;
+}
+
+
+#titulo{
+    height: 20%;
+    width: 100%;
+    font-size: 60px;
+    text-align: center;
+    font-family: fantasy;
+    border-bottom: thin solid black;
+
+}
+
+#menuizq{
+    width:  30%;
+    height: 100%;
+    float: left;
+    border-right: thin solid black;
+    border-bottom: thin solid black;
+
+}
+
+#menuder{
+
+    width:  30%;
+    height: 100%;
+    float: right;
+    border-left:  thin solid black;
+
+
+
+}
+
+#contenido{
+ 
+    width:  38%;
+    height: 100%;
+  
+    float: left;
+ 
+   
+}
+#tablaplatos{
+    border: 1px solid black;
+    
+}

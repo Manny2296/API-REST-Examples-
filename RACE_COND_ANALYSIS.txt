@@ -1,0 +1,13 @@
+Respuestas parte IV.
+
+
+
+Dentro de ManejadorOrdenes, existen elementos que podrían fallar con un manejo concurrente?
+
+en consultar total orden.
+
+Podrían presentarse condiciones de carrera?, cual sería la región crítica?, a qué verbos REST estaría asociada dicha región?.
+
+Condiciones de carrera podrian presentarse en el PUT y en el GET en calcular total.
+La región critica esta en el metodo para consultar un total de orden.
+
